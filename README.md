@@ -15,7 +15,7 @@ This project is a news-ranking system designed to surface the most relevant, tim
 
 ### Clone the repository:
    ```bash
-   git clone https://github.com/your-username/news-ranking-system.git
+   git clone https://github.com/JenPal/news-ranking-system.git
    ```
 
 ### Install the necessary dependencies:
