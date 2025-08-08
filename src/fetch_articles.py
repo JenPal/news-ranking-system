@@ -4,7 +4,7 @@ import feedparser
 from newsapi import NewsApiClient
 
 # Set up News API
-newsapi = NewsApiClient(api_key="af31da346f66425180945ae9602532b7")
+
 
 # RSS Feed URLs
 rss_urls = [
