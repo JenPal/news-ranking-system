@@ -4,7 +4,7 @@ import feedparser
 from newsapi import NewsApiClient
 
 # Set up News API
-
+news_api_key = os.getenv("NEWS_API_KEY")
 
 # RSS Feed URLs
 rss_urls = [
